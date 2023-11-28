@@ -1,0 +1,1 @@
+UPDATE tbCart SET discount = 100, discount_percentage = 0.1 WHERE id = 92
